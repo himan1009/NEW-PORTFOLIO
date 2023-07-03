@@ -385,9 +385,26 @@ nav .fa-solid{
     display: none;
 }
 
-@media only screen and (max-width: 600px){
+/* 
+.btn3{
+    display: block;
+    margin: 10px auto;
+    width: fit-content;
+    border: 1px solid #ff004f;
+    padding: 14px 50px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    transition: background 0.8s;
+}
+
+.btn3:hover{
+    background: #ff004f;
+} */
+
+@media only screen and (max-width: 800px){
     #header{
-        background-image: url(images/phone-background.png);
+        background-image: url(images/photo5.jpg);
     }
 
     .header-text{
